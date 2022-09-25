@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>1</h1>
     <form method="get" action="counter.php">
         <input type="text" name="no1">
         <input type="text" name="no2">
@@ -15,5 +16,6 @@
         <button type="submit" name="pressed" value="multiplication">*</button>
         <button type="submit" name="pressed" value="division">/</button>
     </form>
+
 </body>
 </html>
